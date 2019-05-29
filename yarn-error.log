@@ -1,25 +1,23 @@
 Arguments: 
-  /usr/local/Cellar/node/10.9.0/bin/node /usr/local/Cellar/yarn/1.9.4/libexec/bin/yarn.js remove react-native-ui-lib
+  /usr/local/Cellar/node/12.1.0/bin/node /usr/local/Cellar/yarn/1.15.2/libexec/bin/yarn.js add react-native-rename
 
 PATH: 
-  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/trinadhkoya/Library/Android/sdk/tools:/Users/trinadhkoya/Library/Android/sdk/platform-tools
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/aniyogakiza/Documents/PersonalProjects/weather/node_modules/.bin:/Users/aniyogakiza/.composer/vendor/bin:/Users/aniyogakiza/Library/Android/sdk/emulator:/Users/aniyogakiza/Library/Android/sdk/tools:/Users/aniyogakiza/Library/Android/sdk/platform-tools
 
 Yarn version: 
-  1.9.4
+  1.15.2
 
 Node version: 
-  10.9.0
+  12.1.0
 
 Platform: 
   darwin x64
 
 Trace: 
   Error: https://repo.dev.wixpress.com/artifactory/api/npm/npm-repos/react/-/react-16.3.0-alpha.2.tgz: ETIMEDOUT
-      at Timeout._onTimeout (/usr/local/Cellar/yarn/1.9.4/libexec/lib/cli.js:138128:19)
-      at ontimeout (timers.js:424:11)
-      at tryOnTimeout (timers.js:288:5)
-      at listOnTimeout (timers.js:251:5)
-      at Timer.processTimers (timers.js:211:10)
+      at Timeout._onTimeout (/usr/local/Cellar/yarn/1.15.2/libexec/lib/cli.js:130201:19)
+      at listOnTimeout (internal/timers.js:531:17)
+      at processTimers (internal/timers.js:475:7)
 
 npm manifest: 
   {
@@ -40,6 +38,7 @@ npm manifest:
       "react-native-device-info": "^0.22.5",
       "react-native-linear-gradient": "^2.4.2",
       "react-native-navigation": "^2.0.0",
+      "react-native-vector-icons": "^6.0.2",
       "react-redux": "^5.0.7",
       "redux": "^4.0.0",
       "redux-logger": "^3.0.6",
