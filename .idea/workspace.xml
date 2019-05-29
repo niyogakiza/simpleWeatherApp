@@ -1247,129 +1247,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1230489761">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="css" value="1" />
-          <entry key="eslintrc" value="9" />
-          <entry key="gitignore" value="5" />
-          <entry key="js" value="171" />
-          <entry key="json" value="12" />
-          <entry key="md" value="1" />
-          <entry key="png" value="1" />
-          <entry key="ts" value="17" />
-          <entry key="xml" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CSS" value="1" />
-          <entry key="Git file" value="4" />
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="21" />
-          <entry key="JavaScript" value="171" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="TypeScript" value="17" />
-          <entry key="XML" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts">
-        <counts>
-          <entry key="ESLintLanguageService" value="5" />
-          <entry key="TypeScriptServerServiceImpl" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="css" value="39" />
-          <entry key="dummy" value="21" />
-          <entry key="eslintrc" value="8" />
-          <entry key="gitignore" value="1" />
-          <entry key="js" value="3730" />
-          <entry key="json" value="35" />
-          <entry key="md" value="2" />
-          <entry key="txt" value="73" />
-          <entry key="xml" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="CSS" value="39" />
-          <entry key="Git file" value="1" />
-          <entry key="JSON" value="43" />
-          <entry key="JavaScript" value="3730" />
-          <entry key="Markdown" value="2" />
-          <entry key="PLAIN_TEXT" value="94" />
-          <entry key="XML" value="12" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-1818557643">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts">
-        <counts>
-          <entry key="ESLintLanguageService" value="5" />
-          <entry key="TypeScriptServerServiceImpl" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="gradle" value="3" />
-          <entry key="java" value="4" />
-          <entry key="js" value="94" />
-          <entry key="json" value="2" />
-          <entry key="png" value="1" />
-          <entry key="ts" value="2" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="1" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="94" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="TypeScript" value="2" />
-          <entry key="XML" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gradle" value="1" />
-          <entry key="java" value="1" />
-          <entry key="js" value="827" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JavaScript" value="827" />
-          <entry key="PLAIN_TEXT" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -1538,7 +1415,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1059" />
-    <option name="height" value="810" />
+    <option name="height" value="730" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -1577,6 +1454,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="goAuth&#9;null&#9;null&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/AuthLoading.js&#10;inde&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/index.js&#10;goAut&#9;null&#9;null&#10;registe&#9;null&#9;null&#10;gotA&#9;null&#9;null&#10;Wel&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/WelcomeScreen.js&#10;Main&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/app/src/main/java/com/reactnativeinit/MainApplication.java&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/package.json&#10;sett&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/settings.gradle&#10;build&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/app/build.gradle&#10;pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/package.json&#10;MainAc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/app/src/main/java/com/reactnativeinit/MainActivity.java&#10;MainA&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/app/build/intermediates/classes/debug/com/reactnativeinit/MainActivity.class&#10;An&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/android/app/src/main/AndroidManifest.xml&#10;registerS&#9;null&#9;null&#10;go&#9;null&#9;null&#10;Home&#9;null&#9;null&#10;Welcome&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/WelcomeScreen.js&#10;colo&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/colorPalette.js&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/screen.js&#10;regis&#9;null&#9;null&#10;Aut&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;Ht&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/HttpRequest.js&#10;pa&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;rou&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/routNames.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
